@@ -1,0 +1,18 @@
+#VM
+.venv
+
+#Environment Variables
+.env
+
+#Langchain
+.langchain
+
+#ChromaDB
+.chroma
+chroma_db
+
+# Cache files
+__pycache__/
+*.pyc
+
+test-project
